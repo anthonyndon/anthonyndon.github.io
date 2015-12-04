@@ -2,7 +2,7 @@
 body {padding-top:3em;}
 
 /*each row should be a big screen in itself */
-.row {height:768px;}
+.row {height:500px;}
 
 /*Spacing above quote*/
 .my-quote {margin-top:5em;}
